@@ -35,7 +35,9 @@
   - 插入图片
   
   与添加超链接类似，基本用法是在最前面加一个半角的*!*，示例：![图片](http://daringfireball.net/graphics/logos/)
-  - 插入公式 \\(x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\\)
+  - 插入公式 
+  
+  http://latex.codecogs.com/svg.latex?\frac{1}{\pi}=\frac{2\sqrt{2}}{9801}\sum_{k=0}^\infty\frac{(4k)!(1103+26390k)}{(k!)^4396^{4k}}
 - 列表与表格
  - 单独
 - 更多资源
