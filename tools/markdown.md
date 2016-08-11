@@ -37,7 +37,9 @@
   与添加超链接类似，基本用法是在最前面加一个半角的*!*，示例：![图片](http://daringfireball.net/graphics/logos/)
   - 插入公式
   
-  公式编写采用Latex格式，然后将Latex公式放在4个连续$符号的中间即可，如：$$x^2$$，如：$$\lim_{n \rightarrow +\infty} \frac{1}{n(n+1)}$$
+  公式编写采用Latex格式，然后将Latex公式放在4个连续$符号的中间即可。
+  如：$$x^2$$
+  如：$$\lim_{n \rightarrow +\infty} \frac{1}{n(n+1)}$$
 - 列表与表格
  - 单独
 - 更多资源
