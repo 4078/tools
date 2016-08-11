@@ -29,7 +29,7 @@
  在Markdown中，字体变化有限，常用字体示例为：**粗体**，*斜体*，~~删除~~
  - 添超链接  
 
- 在文本中添加超链接比较简单，示例：[本书链接](https://www.gitbook.com/book/4078/ability_tools/details)
+ 在文本中添加超链接比较简单，示例：[本教程链接](https://www.gitbook.com/book/4078/ability_tools/details)
 - 图片与公式
   - 插入图片
  - 理论
