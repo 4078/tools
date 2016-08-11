@@ -1,4 +1,4 @@
-# Markdown
+# Minimal Manual of Markdown 
 ## 刘鹏远
 ### 转载链接： https://www.gitbook.com/book/4078/ability_tools/details
 ---
@@ -33,8 +33,15 @@
 - 图片与公式
   - 插入图片
   
-  可以直接将图片地址用半角的括号括起，示例：
+  与添加超链接类似，基本用法是在最前面加一个半角的*!*，示例：![图片](http://daringfireball.net/graphics/logos/)
   - 插入公式
 - 列表与表格
  - 单独
 - 更多资源
+> 引用的文字引用的文字引用的文字引用的文字引用的文字
+>>asdfasdfsad
+>>
+>>asdfasdfasdf
+>>
+>>>sadfsd
+
