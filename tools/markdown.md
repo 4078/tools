@@ -32,7 +32,7 @@
  在文本中添加超链接比较简单，示例：[本教程链接](https://www.gitbook.com/book/4078/ability_tools/details)
 - 图片与公式
   - 插入图片
- - 理论
+  - 插入公式
 - 列表与表格
  - 单独
 - 更多资源
