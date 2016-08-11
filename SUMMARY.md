@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Markdown](markdown.md)
-* Latex数学公式
+* [Latex数学公式](tools/latex_equation.md)
 
