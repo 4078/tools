@@ -26,39 +26,23 @@
 - **更多资源**
 ***
 - **段落中的文本**
- - 改字体
- 
- 在Markdown中，字体变化有限，常用字体示例为：**粗体**，*斜体*，~~删除~~
- - 添超链接  
-
- 在文本中添加超链接比较简单，示例：[本教程链接](https://www.gitbook.com/book/4078/ability_tools/details)
- - 转义字符
-  
-  想输出用于Markdown标记的字符，而不是要用这些字符标记，可前面加\符号。示例：\`\`, \[\], \-, \*, \\等等。
+ - 改字体，示例：**粗体**，*斜体*，~~删除~~
+ - 添超链接，示例：[本教程链接](https://www.gitbook.com/book/4078/ability_tools/details)
+ - 转义字符，想输出用于Markdown标记的字符，而不是要用这些字符标记，可前面加`\`符号。示例：\`\`, \[\], \-, \*, \\等等。
 - **图片与公式**
-  - 插入图片
-  
-  与添加超链接类似，基本用法是在最前面加一个半角的*!*，示例：![图片](http://daringfireball.net/graphics/logos/)
-  - 插入公式
-  
-  公式编写采用Latex格式，然后将Latex公式放在4个连续$符号的中间即可。如：$$ x^2 $$，如：$$ \lim_{n \rightarrow +\infty} \frac{1}{n(n+1)} $$
-  
-  Latex数学公式的[最简教程](https://4078.gitbooks.io/ability_tools/content/tools/latex_equ.html)
+  - 插入图片，示例：![图片](http://daringfireball.net/graphics/logos/)
+  - 插入公式，公式编写采用Latex格式（Latex数学公式的[最简教程](https://4078.gitbooks.io/ability_tools/content/tools/latex_equ.html)），然后将Latex公式放在4个连续$符号的中间即可。如：$$ x^2 $$，如：$$ \lim_{n \rightarrow +\infty} \frac{1}{n(n+1)} $$
  
-- **列表、表格与引用**
- - 列表
-
-  整个内容提纲及对应的内容部分，均采用列表形式。多级列表主要是依靠符号加空格缩进体现。
+- 表格**
  - 表格
- 
- 实现相对繁琐，用字符`-`与`|`排成表格，示例如下：
+ 用字符`-`与`|`排成表格，但注意第一行最好没有空格，线可以不用太对齐，示例：
  
 ABCD | EFGH 
------|------
-a    | b    
-d    | e    
-
-- 更多资源
+---|--
+  a   | b    
+  d    | e    
+ - 引用
+ - 更多资源
 > 引用的文字引用的文字引用的文字引用的文字引用的文字
 >>asdfasdfsad
 >>
