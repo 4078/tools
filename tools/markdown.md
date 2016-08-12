@@ -15,6 +15,7 @@
 - **段落中的文本**
  - 改字体
  - 添超链接
+ - 转义字符
 - **图片与公式**
   - 插入图片
   - 插入公式
@@ -31,6 +32,9 @@
  - 添超链接  
 
  在文本中添加超链接比较简单，示例：[本教程链接](https://www.gitbook.com/book/4078/ability_tools/details)
+ - 转义字符
+  
+  想输出用于Markdown标记的字符，而不是要用这些字符标记，可前面加\符号。示例：\`\`, \[\], \-, \*, \\等等。
 - **图片与公式**
   - 插入图片
   
@@ -40,6 +44,9 @@
   公式编写采用Latex格式，然后将Latex公式放在4个连续$符号的中间即可。如：$$ x^2 $$，如：$$ \lim_{n \rightarrow +\infty} \frac{1}{n(n+1)} $$
   
   Latex数学公式的[最简教程](https://4078.gitbooks.io/ability_tools/content/tools/latex_equ.html)
+  - 插入脚注
+
+  
 - **列表、表格与引用**
  - 列表
 
