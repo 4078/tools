@@ -31,7 +31,7 @@
  - 转义字符，想输出用于Markdown标记的字符，而不是要用这些字符标记，可前面加`\`符号。示例：\`\`, \[\], \-, \*, \\等等。
 ---
 - **图片、公式与表格**
-  - 插入图片，示例：![图片](http://daringfireball.net/graphics/logos/)
+  - 插入图片，但须有一个图片的地址链接，示例：![图片](http://daringfireball.net/graphics/logos/)
   - 插入公式，公式编写采用Latex格式（Latex数学公式的[最简教程](https://4078.gitbooks.io/ability_tools/content/tools/latex_equ.html)），然后将Latex公式放在4个连续$符号的中间即可。如：$$ x^2 $$，如：$$ \lim_{n \rightarrow +\infty} \frac{1}{n(n+1)} $$
  - 插入表格
  用字符`-`与`|`排成表格，但注意第一行最好没有空格，线可以不用太对齐，示例：
