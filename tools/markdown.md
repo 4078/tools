@@ -44,15 +44,20 @@
   公式编写采用Latex格式，然后将Latex公式放在4个连续$符号的中间即可。如：$$ x^2 $$，如：$$ \lim_{n \rightarrow +\infty} \frac{1}{n(n+1)} $$
   
   Latex数学公式的[最简教程](https://4078.gitbooks.io/ability_tools/content/tools/latex_equ.html)
-  - 插入脚注
-
-  脚注也是常用功能之一，这里正好补充一个手写公式识别且转为Latex公式的1[^1]。
-  [^1]: http://webdemo.myscript.com/views/math.html
+ 
 - **列表、表格与引用**
  - 列表
 
   整个内容提纲及对应的内容部分，均采用列表形式。多级列表主要是依靠符号加空格缩进体现。
  - 表格
+ 
+ 表格实现相对繁琐，示例如下：
+ 
+ABCD | EFGH |
+-----|------|
+a    | b    |
+d    | e    |
+
 - 更多资源
 > 引用的文字引用的文字引用的文字引用的文字引用的文字
 >>asdfasdfsad
