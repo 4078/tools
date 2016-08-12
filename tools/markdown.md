@@ -1,7 +1,7 @@
 # Minimal Tutorial of Markdown 
 
 ---
-一般来说，我们学习[Markdown](https://en.wikipedia.org/wiki/Markdown)主要目的是要进行**文档与书籍写作**，因此可通过看到一本书的实际显示内容与相应的Markdown部分，即可基本达到目的。因此本教程将采取**内容与形式一体化**的方式进行。具体来说，从本段开始，正文分为多个段，**奇数段**为实际显示内容，其紧邻的**偶数段**为奇数自然段内容对应的Markdown形式，奇数偶数段间以分割线分割。偶数段可为Markdown代码，因此以`代码`显示，把偶数自然段的内容直接拷贝到支持Markdown的编辑环境中，即可显示对应奇数自然段。
+本教程将采取**内容与形式一体化**的方式进行。具体来说，从本段开始，正文分为多个段，**奇数段**为实际显示内容，其紧邻的**偶数段**为奇数自然段内容对应的Markdown形式，奇数偶数段间以分割线分割。偶数段可为Markdown代码，因此以`代码`显示，把偶数自然段的内容直接拷贝到支持Markdown的编辑环境中，即可显示对应奇数自然段。[Markdown](https://en.wikipedia.org/wiki/Markdown)编辑环境如喜欢在浏览器中编辑，可用[简书](http://www.jianshu.com/)，喜欢软件工具形式的，在Windows下可用[MarkdownPad](www.markdownpad.com)，ios下可使用[Mou](http://25.io/mou/)。建议边看本教程边动手拷贝修改。
 
 ---
   
@@ -50,3 +50,4 @@ AB | ED
 >>>如没空行，则文本与上一行连上了。
 
 ---
+更多Markdown的
