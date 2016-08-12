@@ -50,4 +50,4 @@ AB | ED
 >>>如没空行，则文本与上一行连上了。
 
 ---
-更多Markdown的知识，可参考[Markdown语法](http://www.appinn.com/markdown/)，或直接搜索。
+更多Markdown的知识，可参考[Markdown语法](http://www.appinn.com/markdown/)，或网上直接搜索。
