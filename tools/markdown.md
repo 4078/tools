@@ -10,7 +10,7 @@
 ``
 
 ---
-# 刘鹏远
+# 极简Markdown教程
 ## 欢迎转载，本文链接： https://www.gitbook.com/book/4078/ability_tools/details
 ---
 #内容提纲
