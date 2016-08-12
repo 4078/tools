@@ -46,8 +46,8 @@
   Latex数学公式的[最简教程](https://4078.gitbooks.io/ability_tools/content/tools/latex_equ.html)
   - 插入脚注
 
-  脚注也是常用功能之一，这里正好补充一个手写公式识别且转为Latex公式的资源[^1]。
-  [^1]:http://webdemo.myscript.com/views/math.html
+  脚注也是常用功能之一，这里正好补充一个手写公式识别且转为Latex公式的1[^1]。
+  [^1]: http://webdemo.myscript.com/views/math.html
 - **列表、表格与引用**
  - 列表
 
