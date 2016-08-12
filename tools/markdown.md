@@ -1,6 +1,6 @@
-# Minimal Manual of Markdown 
+# Minimal Tutorial of Markdown 
 ## 刘鹏远
-### 转载链接： https://www.gitbook.com/book/4078/ability_tools/details
+### 欢迎转载，本文链接： https://www.gitbook.com/book/4078/ability_tools/details
 ---
 一般来说，我们学习[Markdown](https://en.wikipedia.org/wiki/Markdown)主要目的是要进行**文档与书籍写作**，因此可通过看到一本书的实际显示内容与相应的Markdown部分，即可基本达到目的。因此本教程将采取**内容与形式一体化**的方式进行。具体来说，从本段开始，正文分为多个段，**奇数段**为实际显示内容，其紧邻的**偶数段**为奇数自然段内容对应的Markdown形式，奇数偶数段间以分割线分割。偶数段可为Markdown代码，因此以`代码`显示，把偶数自然段的内容直接拷贝到支持Markdown的编辑环境中，即可显示对应奇数自然段。
 
@@ -24,22 +24,27 @@
  - 表格
 - **更多资源**
 ***
-- 段落中的文本
+- **段落中的文本**
  - 改字体
  
  在Markdown中，字体变化有限，常用字体示例为：**粗体**，*斜体*，~~删除~~
  - 添超链接  
 
  在文本中添加超链接比较简单，示例：[本教程链接](https://www.gitbook.com/book/4078/ability_tools/details)
-- 图片与公式
+- **图片与公式**
   - 插入图片
   
   与添加超链接类似，基本用法是在最前面加一个半角的*!*，示例：![图片](http://daringfireball.net/graphics/logos/)
   - 插入公式
   
   公式编写采用Latex格式，然后将Latex公式放在4个连续$符号的中间即可。如：$$ x^2 $$，如：$$ \lim_{n \rightarrow +\infty} \frac{1}{n(n+1)} $$
-- 列表与表格
- - 单独
+  
+  Latex数学公式的[最简教程](https://4078.gitbooks.io/ability_tools/content/tools/latex_equ.html)
+- **列表、表格与引用**
+ - 列表
+
+  整个内容提纲及对应的内容部分，均采用列表形式。多级列表主要是依靠符号加空格缩进体现。
+ - 表格
 - 更多资源
 > 引用的文字引用的文字引用的文字引用的文字引用的文字
 >>asdfasdfsad
