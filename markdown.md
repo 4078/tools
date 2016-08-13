@@ -105,6 +105,3 @@ AB | ED
 
 ``更多Markdown的知识，可参考[Markdown语法](http://www.appinn.com/markdown/)，或网上直接搜索。
 ``
-
-$$\sum_{i=1}^nn_i$$
-
