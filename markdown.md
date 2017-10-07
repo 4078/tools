@@ -12,7 +12,7 @@
 ---
 # Markdown极简教程
 ## 欢迎转载，本文链接：
-### https://4078.gitbooks.io/ability_tools/content/tools/markdown.html
+### https://github.com/LanguageResources/tools/blob/master/markdown.md
 ---
 
 ```
@@ -22,7 +22,7 @@
 ```
 
 ---
-#内容提纲
+# 内容提纲
 - **段落中的文本**
  - 改字体
  - 添超链接
@@ -34,7 +34,7 @@
 - **引用**
 ---
 ```
-#内容提纲
+# 内容提纲
 - **段落中的文本**
  - 改字体
  - 添超链接
