@@ -18,7 +18,7 @@
 ```
 # Markdown极简教程
 ## 欢迎转载，本文链接：
-### https://4078.gitbooks.io/ability_tools/content/tools/markdown.html
+### https://github.com/LanguageResources/tools/blob/master/markdown.md
 ```
 
 ---
